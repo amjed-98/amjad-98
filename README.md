@@ -16,7 +16,7 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 
-- ✨ Software Developer
+- ✨ Software Developer at [Google for Startups](https://startup.google.com/)
 - 👨‍🎓 computer science diploma [International University of Africa](https://www.iua.edu.sd/)
 - 👨‍ [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) - Code Academy Graduate
 - 👨‍💻 All of my projects are available at [https://portofolio-zeta.vercel.app/](https://portofolio-zeta.vercel.app/)
